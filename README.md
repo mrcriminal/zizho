@@ -18,3 +18,7 @@ and edit it with ur credentials, after that run the following command:
 php bin/console doctrine:database:create
 
 ```
+
+The entire project is btw based on Symfony.
+
+
